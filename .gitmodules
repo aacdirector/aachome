@@ -1,0 +1,6 @@
+[submodule "home/themes/hugo-elate-theme"]
+	path = home/themes/hugo-elate-theme
+	url = https://github.com/saey55/hugo-elate-theme
+[submodule "blog/themes/allegiant"]
+	path = blog/themes/allegiant
+	url = https://github.com/brycematheson/allegiant
